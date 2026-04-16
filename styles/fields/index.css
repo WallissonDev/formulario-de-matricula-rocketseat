@@ -29,3 +29,4 @@ input[type="date"]:focus-within {
     border: .125rem solid var(--stroke-highlight);
     outline-offset: .1px;
 }
+
