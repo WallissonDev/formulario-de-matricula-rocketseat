@@ -8,6 +8,7 @@
 
 main{
     overflow: auto;
+    height: 100vh;
     padding: 4rem;
 
     & .main-container{
