@@ -1,5 +1,3 @@
-Aqui está o README estruturado exatamente no mesmo formato do seu projeto **Festivite**, adaptado para o projeto **Estrelas do Amanhã (Formulário de Matrícula)**.
-
 -----
 
 # 📝 Estrelas do Amanhã — Formulário de Matrícula
