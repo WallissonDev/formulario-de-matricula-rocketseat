@@ -10,7 +10,7 @@
 
 O **Estrelas do Amanhã** é uma aplicação web de formulário de matrícula para uma escola de educação infantil. O projeto foca na organização de informações em etapas (dados da criança, do responsável, opções de turno e documentos), utilizando uma interface limpa e intuitiva. Foi desenvolvido como parte da formação da **Rocketseat** para consolidar conhecimentos em **CSS Grid**, **Flexbox** e **Nesting nativo do CSS**.
 
-Visualize \<a href="[https://wallissondev.github.io/formulario-de-matricula-rocketseat/](https://www.google.com/search?q=https://wallissondev.github.io/formulario-de-matricula-rocketseat/)"\>clicando aqui\!\</a\>
+Visualize <a href="https://wallissondev.github.io/formulario-de-matricula-rocketseat"\>clicando aqui\!\</a\>
 
 -----
 
@@ -24,16 +24,6 @@ Visualize \<a href="[https://wallissondev.github.io/formulario-de-matricula-rock
   - ✅ Layout responsivo adaptado para diferentes tamanhos de tela
   - ✅ Uso de ícones SVG integrados para melhor experiência do usuário
   - ✅ Tipografia moderna utilizando fontes do Google Fonts
-
------
-
-## 🖼️ Preview
-
-| Topo | Meio | Fim |
-|------|------|-----|
-|  |  |  |
-
-*(Nota: Certifique-se de ter as imagens na pasta `/previews` ou ajuste os caminhos acima)*
 
 -----
 
