@@ -92,3 +92,13 @@ input{
     justify-content: flex-end;
     gap: 1.5rem;
 }
+
+/* Mobile Version */
+
+@media (max-width: 768px){
+    
+    .actions-wrapper{
+        flex-direction: column;
+        justify-content: center;
+    }
+}

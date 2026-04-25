@@ -51,3 +51,23 @@ aside{
     }
     
 }
+
+/* Mobile Layout */
+
+@media (max-width: 768px){
+
+    #app{
+
+        display: flex;
+        flex-direction: column-reverse;
+        height: auto;
+    }
+
+    main{
+        height: auto;
+    }
+    
+    body{
+        overflow: auto;
+    }
+}
